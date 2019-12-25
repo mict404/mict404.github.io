@@ -241,10 +241,12 @@ nav {
 //
 
 .posts > .post {
+  padding-bottom: 2em;
   border-bottom: 1px solid $lightGray;
 }
 
 .posts > .post:last-child {
+  padding-bottom: 1em;
   border-bottom: none;
 }
 
@@ -260,7 +262,7 @@ nav {
 }
 
 .wrapper-footer {
-  margin-top: 50px;
+  margin-top: 10px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
   background-color: $lightGray;
