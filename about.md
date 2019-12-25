@@ -5,14 +5,15 @@ permalink: /about/
 ---
 
 Work with Multiple Role, Responsibility & Challenge like:
-* Network Engineer to Execute the Plan,
 * Network Architect to Design Variety Requirement from Variety Customer,
+* Escalation Engineer to Provide 24x7 Deep Technical Troubleshooting,
+* Managing Distributed Infrastructure with Variety Condition,
+* Managing Core Infrastructure with Hundred Gigabit Traffic,
+* Project Manager to Make Sure the Project Running Well,
 * Security Engineer to Securing the Infrastructure,
 * Presales Engineer to Provide what Customer Needs,
-* Project Manager to Make Sure the Project Running Well,
-* Escalation Engineer to Provide 24x7 Deep Technical Troubleshooting and Regaining Customer Trust,
-* Managing Core Infrastructure and Distributed Infrastructure with Hundred Gigabit Traffic.
-<p/>and Yes, I was do this in Multiple Company in Multiple Countries, that's why i love to travel a lot
+* Network Engineer to Execute the Plan.
+<p/><br/>and Yes, I was do this in Multiple Company in Multiple Countries, that's why i love to travel a lot
 
 ### Contact me
 
