@@ -14,7 +14,7 @@ Work with Multiple Role, Responsibility & Challenge like:
 * Presales Engineer to Provide what Customer Needs,
 * Network Engineer to Execute the Plan.
 
-<br/>and Yes, I was do this in Multiple Company in Multiple Countries, that's why i love to travel a lot
+and Yes, I was do this in Multiple Company in Multiple Countries, that's why i love to travel a lot
 
 ### Contact me
 
