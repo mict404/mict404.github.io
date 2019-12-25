@@ -1,6 +1,5 @@
 ---
 layout: page
-title: About
 ---
 
 Work with Multiple Role, Responsibility & Challenge like:
@@ -14,7 +13,3 @@ Work with Multiple Role, Responsibility & Challenge like:
 * Network Engineer to Execute the Plan.
 
 and Yes, I was do this in Multiple Company in Multiple Countries, that's why i love to travel a lot
-
-### Contact me
-
-[michael@takeuchi.id](mailto:michael@takeuchi.id)
