@@ -12,7 +12,7 @@ Work with Multiple Role, Responsibility & Challenge like:
 * Project Manager to Make Sure the Project Running Well,
 * Escalation Engineer to Provide 24x7 Deep Technical Troubleshooting and Regaining Customer Trust,
 * Managing Core Infrastructure and Distributed Infrastructure with Hundred Gigabit Traffic.
-<br/>and Yes, I was do this in Multiple Company in Multiple Countries, that's why i love to travel a lot
+<p/>and Yes, I was do this in Multiple Company in Multiple Countries, that's why i love to travel a lot
 
 ### Contact me
 
