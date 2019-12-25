@@ -7,7 +7,7 @@ permalink: /about/
 Work with Multiple Role, Responsibility & Challenge like:
 * Network Architect to Design Variety Requirement from Variety Customer,
 * Escalation Engineer to Provide 24x7 Deep Technical Troubleshooting,
-* Managing Core Infrastructure with Hundred Gigabit Traffic,
+* Managing Core Infrastructure with Hundreds Gigabit Traffic,
 * Managing Distributed Infrastructure with Variety Condition,
 * Project Manager to Make Sure the Project Running Well,
 * Presales Engineer to Provide what Customer Needs,
