@@ -1,10 +1,20 @@
 ---
 layout: post
-title: You're up and running!
+title: About
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Work with Multiple Role, Responsibility & Challenge like:
+* Network Architect to Design Variety Requirement from Variety Customer,
+* Escalation Engineer to Provide 24x7 Deep Technical Troubleshooting,
+* Managing Core Infrastructure with Hundreds Gigabit Traffic,
+* Managing Distributed Infrastructure with Variety Condition,
+* Project Manager to Make Sure the Project Running Well,
+* Presales Engineer to Provide what Customer Needs,
+* Security Engineer to Securing the Infrastructure,
+* Network Engineer to Execute the Plan.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+and Yes, I was do this in Multiple Company in Multiple Countries, that's why i love to travel a lot
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+### Contact me
+
+[michael@takeuchi.id](mailto:michael@takeuchi.id)
