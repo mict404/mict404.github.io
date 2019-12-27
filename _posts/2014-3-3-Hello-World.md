@@ -12,5 +12,3 @@ Work with Multiple Role, Responsibility, Challenge, Company & Countries like:
 * Presales Engineer to Provide what Customer Needs,
 * Security Engineer to Securing the Infrastructure,
 * Network Engineer to Execute the Plan.
-
-and Yes, I was do this in Multiple Company in Multiple Countries, that's why i love to travel a lot
