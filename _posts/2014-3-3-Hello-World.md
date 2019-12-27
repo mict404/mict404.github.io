@@ -1,6 +1,6 @@
 ---
 title: About Me
-layout: default
+layout: page
 ---
 
 Work with Multiple Role, Responsibility & Challenge like:
