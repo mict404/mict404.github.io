@@ -3,7 +3,7 @@ title: About Me
 layout: page
 ---
 
-Work with Multiple Role, Responsibility, Challenge, Company & Countries like:
+Work in Several Company & Countries with Multiple Role, Responsibility & Challenge like:
 * Network Architect to Design Variety Requirement from Variety Customer,
 * Escalation Engineer to Provide 24x7 Deep Technical Troubleshooting,
 * Managing Core Infrastructure with Hundreds Gigabit Traffic,
